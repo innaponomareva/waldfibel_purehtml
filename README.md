@@ -1,13 +1,25 @@
-HTML
+# Waldfibel
 
-CSS
+A simple, static **pure-HTML & CSS** digital _Waldfibel_ (“forest guidebook”) — a lightweight educational site about forest and nature, built without JavaScript.
 
-Bootstrap
+This project was created in 2020 at the beginning of my programming course for education purposes.
 
-Google Fonts
+👉 **Live Demo**: https://innaponomareva.github.io/waldfibel_purehtml/
 
-Font Awesome
+## 🚀 Features
 
-Animate.css
+- Static website made with **pure HTML**
+- Styled with **CSS**
+- No JavaScript
+- Two pages:
+  - Start page
+  - A page about **Fichte**
 
-View project online: https://innaponomareva.github.io/waldfibel_purehtml/
+## 🧩 Tech Stack
+
+- HTML
+- CSS
+- Bootstrap
+- Google Fonts
+- Font Awesome
+- Animate.css
